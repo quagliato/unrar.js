@@ -3,7 +3,12 @@
     "version": "0.2.5",
     "description": "Pure javascript unrar library. salvaged from bitjs.",
     "main": "unrar.js",
-    "keywords": ["unrar", "unarchived", "archive", "bitjs"],
+    "keywords": [
+        "unrar",
+        "unarchived",
+        "archive",
+        "bitjs"
+    ],
     "repository": {
         "type": "git",
         "url": "https://github.com/boggan/unrar.js.git"

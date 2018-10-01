@@ -1,4 +1,5 @@
 var fs = require("fs"),
+    mkdirp = require('mkdirp'),
     path = require("path"),
     RarEventMgr = require("./lib/RarEventMgr"),
     child_process = require("child_process");
